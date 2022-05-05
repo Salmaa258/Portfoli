@@ -1,0 +1,21 @@
+
+1- Mostra tots els clients que el seu cognom no sigui 'Lopez'.
+
+2- Dels clients que han escollit el tipus d'habitacio 'normal', mostra el seu DNI.
+
+3- Mostra el total d'habitacions que hi ha de tipus 'Lujo'.
+
+4- Mostra els clients que han reservat a un preu inferior o igual a 115€ i que el tipus d'habitació sigui 'normal'.
+
+5- Mostra els noms i cognoms dels clients que han fet la reserva abans de les 15:00h.
+
+6- Mostra el nom del client que el seu telèfon no sigui '675849279'.
+
+7- Mostra el total d'habitacions segons el seu tipus.
+
+8- Mostra el total d'habitacions reservades.
+
+9- Mostra la suma del que valen les habitacions de tipus 'normal' i les de tipus 'Lujo'.
+
+10- Mostra informacio del client (nom, cognom, adreça i telefon) del que ha fet la reserva el dia 2020-08-18.
+
